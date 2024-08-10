@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DhavalSuthar17/Counter-App.git/static/css/main.37c80dbf.css",
-    "main.js": "/DhavalSuthar17/Counter-App.git/static/js/main.31ac2013.js",
-    "static/js/453.3d273f61.chunk.js": "/DhavalSuthar17/Counter-App.git/static/js/453.3d273f61.chunk.js",
-    "static/media/logo.svg": "/DhavalSuthar17/Counter-App.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/DhavalSuthar17/Counter-App.git/index.html",
-    "main.37c80dbf.css.map": "/DhavalSuthar17/Counter-App.git/static/css/main.37c80dbf.css.map",
-    "main.31ac2013.js.map": "/DhavalSuthar17/Counter-App.git/static/js/main.31ac2013.js.map",
-    "453.3d273f61.chunk.js.map": "/DhavalSuthar17/Counter-App.git/static/js/453.3d273f61.chunk.js.map"
+    "main.css": "/Counter-App/static/css/main.37c80dbf.css",
+    "main.js": "/Counter-App/static/js/main.91f8b023.js",
+    "static/js/453.3d273f61.chunk.js": "/Counter-App/static/js/453.3d273f61.chunk.js",
+    "static/media/logo.svg": "/Counter-App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Counter-App/index.html",
+    "main.37c80dbf.css.map": "/Counter-App/static/css/main.37c80dbf.css.map",
+    "main.91f8b023.js.map": "/Counter-App/static/js/main.91f8b023.js.map",
+    "453.3d273f61.chunk.js.map": "/Counter-App/static/js/453.3d273f61.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.37c80dbf.css",
-    "static/js/main.31ac2013.js"
+    "static/js/main.91f8b023.js"
   ]
 }
